@@ -7,7 +7,7 @@ decentralization. Since it's EVM compatible (Solidity/Vyper), 99% of Ethereum pr
 or re-auditing a single line of code. zkSync Era also uses an LLVM-based compiler that will eventually let developers
 write smart contracts in C++, Rust and other popular languages.
 
-## Knowledge Index
+# Knowledge Index
 
 The following questions will be answered by the following resources:
 
